@@ -12,3 +12,4 @@ function greeter(person) {
 }
 var user = new Student('Jane', 'M.', 'User');
 document.body.textContent = greeter(user);
+//run tsc greeter.ts after any changes before refreshin browser
